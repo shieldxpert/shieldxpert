@@ -1,6 +1,6 @@
 
-<h1 align="center">👋 Hola, soy shieldxpert</h1>
-<h3 align="center">Cazador de amenazas | Analista forense digital | Desarrollador de herramientas OSINT | HaCkEr | Reverse Engineering | Intelligence & Artificial Intelligence (AI)</h3>
+<h1 align="center">🌍 Hi, I'm shieldxpert</h1>
+<h3 align="center">Threat Hunter | Digital Forensics Analyst | OSINT Tool Developer | Ethical Hacker | Reverse Engineer | Intelligence & Artificial Intelligence (AI)</h3>
 
 ---
 
