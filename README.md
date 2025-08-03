@@ -12,56 +12,7 @@ Offensive and defensive cybersecurity professional, specialized in threat intell
 🟥 Specialties
 
 
--Red Teaming, Blue Teaming, Purple Teaming, Yellow Teaming & Ethical Hacking
-
--OSINT Automation & Threat Intelligence
-
--Reverse Engineering & Malware Dissection
-
--Forensics and Evidence Preservation
-
--Secure Tool Development (CLI/GUI)
-
--Intelligence & Counterintelligence Operations
-
--AI-powered Threat Detection & Automation
-
--Vulnerability Assessment & Exploitation
-
--Incident Response & Triage Coordination
-
--Deception Technologies & Adversary Simulation
-
--Advanced Persistent Threat (APT) Hunting
-
--Cyber Deception & Stealth Recon Techniques
-
--Insider Threat Detection & Mitigation
-
--Malware Sandbox Engineering & Emulation
-
--Cyber Defense Strategy & Blue Team Architecture
-
--Adversary Tactics Emulation (MITRE ATT&CK Integration)
-
--Cyber Threat Actor Profiling & Tracking
-
--Digital Footprint Analysis & Identity Protection
-
--Offensive Tool Engineering & Custom Exploit Dev
-
--Dark Web Monitoring & Risk Intelligence
-
--Tactical OSINT for High-Value Targeting
-
--Secure DevOps (DevSecOps) Methodologies
-
--Memory Forensics & Live Analysis
-
--Steganography & Data Exfiltration Techniques
-
--Network Intrusion Detection & Traffic Forensics
-
+Red Teaming · Blue Teaming · Purple Teaming · Yellow Teaming · Ethical Hacking · OSINT Automation · Threat Intelligence · Reverse Engineering · Malware Dissection · Forensics and Evidence Preservation · Secure Tool Development (CLI/GUI) · Intelligence Operations · Counterintelligence Operations · AI-powered Threat Detection · AI Automation · Vulnerability Assessment · Exploitation · Incident Response · Triage Coordination · Deception Technologies · Adversary Simulation · APT Hunting · Cyber Deception · Stealth Recon Techniques · Insider Threat Detection · Insider Mitigation · Malware Sandbox Engineering · Emulation · Cyber Defense Strategy · Blue Team Architecture · MITRE ATT&CK Emulation · Adversary Tactics · Threat Actor Profiling · Tracking · Digital Footprint Analysis · Identity Protection · Offensive Tool Engineering · Custom Exploit Development · Dark Web Monitoring · Risk Intelligence · Tactical OSINT · High-Value Targeting · Secure DevOps · DevSecOps · Memory Forensics · Live Analysis · Steganography · Data Exfiltration · Network Intrusion Detection · Traffic Forensics · AI Architecture · Intelligence Engineering
 ---
 
 
