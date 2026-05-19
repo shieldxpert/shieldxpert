@@ -1,5 +1,19 @@
 <h1 align="center"> shieldxpert</h1>
-<h3 align="center"> Cybersecurity Architect | DFIR Expert | OSINT Specialist | Intelligence & Counterintelligence | Personnel Security Official (SPO) | U.S. Marine Corps Security Management | Exposure Management Expert | Risk Management Framenwork (RFM) | OPSEC | Security Operations | Threat intelligence | International Private Investigator under the Adversarial Criminal Justice System | Investigation and Public Safety within the Judicial System</h3>
+<h3 align="center" <p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity_Architect-08F7FE?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/DFIR_Expert-08F7FE?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT_Specialist-08F7FE?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Intelligence_%26_Counterintelligence-FE53BB?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Personnel_Security_Official_SPO-FE53BB?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/U.S._Marine_Corps_Security_Management-F5D300?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Exposure_Management_Expert-F5D300?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Risk_Management_Framework_RFM-08F7FE?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/OPSEC-FE53BB?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Security_Operations-08F7FE?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Threat_Intelligence-FE53BB?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/International_Private_Investigator_under_the_Adversarial_Criminal_Justice_System-F5D300?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Investigation_and_Public_Safety_within_the_Judicial_System-F5D300?style=for-the-badge&logoColor=black">
+</p>
 
 <p align="center">
   <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
@@ -67,41 +81,139 @@
 
 ## 🔴 Red Team & Offensive Ops
 <p align="left">
-  <img src="https://img.shields.io/badge/Metasploit-D12F2F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nmap-D12F2F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BurpSuite-D12F2F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQLMap-D12F2F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mimikatz-D12F2F?style=for-the-badge">
   <img src="https://img.shields.io/badge/JohnTheRipper-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hydra-D12F2F?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hashcat-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CEWL-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OPHCrack-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Medusa-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Crunch-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cain_Abel-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Empire-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BloodHound-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PowerSploit-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nmap-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SET-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Responder-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mimikatz-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rubeus-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Koadic-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nishang-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shodan-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Feroxbuster-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQLMap-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dirb-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gobuster-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CrackMapExec-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XSSer-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BeEF-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-D12F2F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BurpSuite-D12F2F?style=for-the-badge">
 </p>
+
+---
 
 ## 🟣 Purple Team & Simulation
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Elastic-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Splunk-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Velociraptor-8A2BE2?style=for-the-badge">
   <img src="https://img.shields.io/badge/AtomicRedTeam-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Caldera-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metta-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ElasticSecurity-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sigma-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Helk-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MitreATTACK-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Splunk-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arkime-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Osquery-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wazuh-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GreyNoise-8A2BE2?style=for-the-badge">
   <img src="https://img.shields.io/badge/CyberChef-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zeek-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Velociraptor-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenCTI-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Yara-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FlareVM-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sysmon-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LogParser-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ELKStack-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kibana-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Beats-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SecurityOnion-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FalconSensor-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Timesketch-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DeepBlueCLI-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ATTACKnavigator-8A2BE2?style=for-the-badge">
 </p>
+
+---
 
 ## 🟨 Yellow Team & OSINT
 <p align="left">
   <img src="https://img.shields.io/badge/Maltego-FFB300?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Shodan-FFB300?style=for-the-badge">
   <img src="https://img.shields.io/badge/SpiderFoot-FFB300?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ExifTool-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shodan-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Amass-FFB300?style=for-the-badge">
   <img src="https://img.shields.io/badge/ReconNG-FFB300?style=for-the-badge">
   <img src="https://img.shields.io/badge/theHarvester-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sublist3r-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FoFa-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Censys-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DNSdumpster-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Whois-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metagoofil-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GoogleDorks-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Photon-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IntelX-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sn0int-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/URLScan-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LeakLooker-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/EmailRep-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SocialSearcher-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ExifTool-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DarkSearch-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ReconDog-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sherlock-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/H8Mail-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Breacher-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TweetDeck-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Onyphe-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scylla-FFB300?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Socradar-FFB300?style=for-the-badge">
 </p>
+
+---
 
 ## 🟦 Blue Team & DFIR
 <p align="left">
-  <img src="https://img.shields.io/badge/Autopsy-007ACC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Volatility-007ACC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FTK_Imager-007ACC?style=for-the-badge">
   <img src="https://img.shields.io/badge/Zeek-007ACC?style=for-the-badge">
   <img src="https://img.shields.io/badge/Suricata-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Snort-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Osquery-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wazuh-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sysmon-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ElasticStack-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Splunk-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Graylog-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/QRadar-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AlienVault-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LogRhythm-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Autopsy-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Volatility-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SleuthKit-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Plaso-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Rekall-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FTKImager-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenVAS-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nessus-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Qualys-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nexpose-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GRR-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Velociraptor-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/KAPE-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CyberChef-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Redline-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FResponse-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Logwatch-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arkime-007ACC?style=for-the-badge">
 </p>
