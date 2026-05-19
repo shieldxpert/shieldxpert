@@ -1,5 +1,5 @@
 <h1 align="center"> shieldxpert</h1>
-<h3 align="center">Cyber Intelligence Architect | DFIR Expert | OSINT Specialist</h3>
+<h3 align="center"> Cybersecurity Architect | DFIR Expert | OSINT Specialist | Intelligence & Counterintelligence | Personnel Security Official (SPO) | U.S. Marine Corps Security Management | Exposure Management Expert | Risk Management Framenwork (RFM) | OPSEC | Security Operations | Threat intelligence | International Private Investigator under the Adversarial Criminal Justice System | Investigation and Public Safety within the Judicial System</h3>
 
 <p align="center">
   <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
