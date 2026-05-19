@@ -1,19 +1,19 @@
 <h1 align="center"> shieldxpert</h1>
-<h3 align="center">Cyber Security Architect | DFIR Expert | OSINT Specialist</h3>
+<h3 align="center">Cyber Intelligence Architect | DFIR Expert | OSINT Specialist</h3>
 
 <p align="center">
   <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Arquitecto_de_Ciberseguridad-blue?style=for-the-badge&logo=securityscorecard" alt="Role">
-  <img src="https://img.shields.io/badge/Role-Ingeniero_de_Redes-red?style=for-the-badge&logo=cisco" alt="Role">
-  <img src="https://img.shields.io/badge/Role-Hacker_Etico-darkblue?style=for-the-badge&logo=hackthebox" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Arquitecto_de_Ciberseguridad-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Ingeniero_de_Redes-red?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Hacker_Etico-darkblue?style=for-the-badge" alt="Role">
 </p>
 
 ---
 
-## 🏛️ Certifications & Professional Standards
+## Titles & Professional Standards
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Architect-005571?style=for-the-badge">
   <img src="https://img.shields.io/badge/Network_Engineer-005571?style=for-the-badge">
@@ -27,9 +27,9 @@
 </p>
 
 ## Core Competencies
-* **Expert Witness** | **DFIR** | **SOC** | **Network Engineering** | **Cybersecurity Expert**
+* **Expert Witness** | **DFIR** | **SOC** | **Network Engineering** | **Cybersecurity Expert** | **Cybersecurity Architect**
 * **Intelligence & Counterintelligence:** Cyber Deception, APT Hunting, Adversary Profiling, Threat Hunting.
-* **Forensics & Legal:** Forensic Evidence Preservation, Criminal Behavior Analysis, Análisis de Conducta del Cibercrimen.
+* **Forensics & Legal:** Forensic Evidence Preservation, Criminal Behavior Analysis
 
 ---
 
