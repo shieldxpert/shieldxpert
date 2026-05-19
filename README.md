@@ -30,17 +30,20 @@
 
 ---
 
-## Titles & Professional Standards
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Architect-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Network_Engineer-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CHFI-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CISA-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CISM-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CISSP-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSSP-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSBA-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CEH-005571?style=for-the-badge">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Titles%20%20Professional%20Standards.png" width="500" alt="Titles & Professional Standards">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity_Architect-005571?style=for-the-badge&logo=biomimicry&logoColor=white">
+  <img src="https://img.shields.io/badge/Network_Engineer-005571?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/CHFI-005571?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/CISA-005571?style=for-the-badge&logo=isaca&logoColor=white">
+  <img src="https://img.shields.io/badge/CISM-005571?style=for-the-badge&logo=isaca&logoColor=white">
+  <img src="https://img.shields.io/badge/CISSP-005571?style=for-the-badge&logo=isc2&logoColor=white">
+  <img src="https://img.shields.io/badge/CSSP-005571?style=for-the-badge&logo=isc2&logoColor=white">
+  <img src="https://img.shields.io/badge/CSBA-005571?style=for-the-badge&logo=securityscorecard&logoColor=white">
+  <img src="https://img.shields.io/badge/CEH-005571?style=for-the-badge&logo=ec-council&logoColor=white">
 </p>
 
 ### Core Competencies
