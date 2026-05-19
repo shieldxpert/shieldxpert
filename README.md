@@ -103,7 +103,9 @@
 
 ---
 
-## Specialized Toolsets
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Specialized%20Toolsets.png" width="500" alt="Specialized Toolsets">
+</p>
 
 ## 🔴 Red Team & Offensive Ops
 <p align="left">
