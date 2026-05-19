@@ -68,7 +68,7 @@
 ## Senior Tech Stack & Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker&theme=dark&perline=9" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker,figma,qt,linux,kali,sqlite,git&theme=dark&perline=12" alt="Tech Stack">
 </p>
 
 ## Operating Systems
