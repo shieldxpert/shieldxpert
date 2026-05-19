@@ -1,4 +1,4 @@
-<h1 align="center"> shieldxpert</h1>
+<h1 align="center"> ![ShieldXpert Header](https://raw.githubusercontent.com/shieldxpert/assets/main/shieldxpert-header.png)</h1>
 <h3 align="center" <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Architect-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/DFIR_Expert-1a2a6c?style=for-the-badge&logoColor=white">
