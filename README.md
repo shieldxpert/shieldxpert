@@ -65,10 +65,12 @@
 ![Criminal Behavior Analysis](https://img.shields.io/badge/Legal-Criminal%20Behavior%20Analysis-1f2937?style=flat)
 ---
 
-## Senior Tech Stack & Programming
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Senior%20Tech%20Stack%20%26%20Programming.png" width="500" alt="Senior Tech Stack & Programming">
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker,figma,qt,linux,kali,sqlite,git&theme=dark&perline=12" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker&theme=dark&perline=9" alt="Tech Stack">
 </p>
 
 ## Operating Systems
