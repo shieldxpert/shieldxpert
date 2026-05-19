@@ -1,5 +1,5 @@
-<h1 align="center">🛡️ shieldxpert</h1>
-<h3 align="center">Cyber Intelligence Architect | DFIR Expert | OSINT Specialist</h3>
+<h1 align="center"> shieldxpert</h1>
+<h3 align="center">Cyber Security Architect | DFIR Expert | OSINT Specialist</h3>
 
 <p align="center">
   <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
