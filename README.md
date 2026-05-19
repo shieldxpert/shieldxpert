@@ -15,13 +15,15 @@
   <img src="https://img.shields.io/badge/Investigation_and_Public_Safety_within_the_Judicial_System-800000?style=for-the-badge&logoColor=white">
 </p>
 <p align="center">
-  <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
+  <img src="https://img.shields.io/badge/ICS%2FSCADA_Specialist-1a2a6c?style=social">
+  <img src="https://img.shields.io/badge/Forensic_Expert-4b134f?style=social">
+  <img src="https://img.shields.io/badge/Senior_Professional-333333?style=social">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Arquitecto_de_Ciberseguridad-blue?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Role-Ingeniero_de_Redes-red?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Role-Hacker_Etico-darkblue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Cybersecurity_Architect-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Network_Engineer-red?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Ethical_Hacker-darkblue?style=for-the-badge" alt="Role">
 </p>
 
 ---
