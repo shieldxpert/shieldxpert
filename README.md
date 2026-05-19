@@ -66,23 +66,9 @@
 ---
 
 ## Senior Tech Stack & Programming
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql">
-  <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust">
-  <img src="https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat-square&logo=gnu-bash">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker">
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker&theme=dark&perline=9" alt="Tech Stack">
 </p>
 
 ## Operating Systems
