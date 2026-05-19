@@ -43,11 +43,26 @@
   <img src="https://img.shields.io/badge/CEH-005571?style=for-the-badge">
 </p>
 
-## Core Competencies
-* **Expert Witness** | **DFIR** | **SOC** | **Network Engineering** | **Cybersecurity Expert** | **Cybersecurity Architect**
-* **Intelligence & Counterintelligence:** Cyber Deception, APT Hunting, Adversary Profiling, Threat Hunting.
-* **Forensics & Legal:** Forensic Evidence Preservation, Criminal Behavior Analysis
+### Core Competencies
 
+![Expert Witness](https://img.shields.io/badge/Role-Expert%20Witness-1e40af?style=flat)
+![DFIR](https://img.shields.io/badge/Role-DFIR-b91c1c?style=flat)
+![SOC](https://img.shields.io/badge/Role-SOC-047857?style=flat)
+![Network Engineering](https://img.shields.io/badge/Role-Network%20Engineering-b45309?style=flat)
+![Cybersecurity Expert](https://img.shields.io/badge/Role-Cybersecurity%20Expert-4338ca?style=flat)
+![Cybersecurity Architect](https://img.shields.io/badge/Role-Cybersecurity%20Architect-0f766e?style=flat)
+
+<br>
+
+![Cyber Deception](https://img.shields.io/badge/Intelligence-Cyber%20Deception-4c1d95?style=flat)
+![APT Hunting](https://img.shields.io/badge/Intelligence-APT%20Hunting-be185d?style=flat)
+![Adversary Profiling](https://img.shields.io/badge/Intelligence-Adversary%20Profiling-1d4ed8?style=flat)
+![Threat Hunting](https://img.shields.io/badge/Intelligence-Threat%20Hunting-b91c1c?style=flat)
+
+<br>
+
+![Evidence Preservation](https://img.shields.io/badge/Forensics-Evidence%20Preservation-374151?style=flat)
+![Criminal Behavior Analysis](https://img.shields.io/badge/Legal-Criminal%20Behavior%20Analysis-1f2937?style=flat)
 ---
 
 ## Senior Tech Stack & Programming
