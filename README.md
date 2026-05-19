@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/shieldxpert-header.png" width="800" alt="ShieldXpert Header">
 </p>
-
-<h1 align="center">ShieldXpert</h1>
-
 <h3 align="center" <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Architect-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/DFIR_Expert-1a2a6c?style=for-the-badge&logoColor=white">
