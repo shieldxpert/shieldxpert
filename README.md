@@ -1,20 +1,19 @@
 <h1 align="center"> shieldxpert</h1>
 <h3 align="center" <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Architect-08F7FE?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/DFIR_Expert-08F7FE?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/OSINT_Specialist-08F7FE?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Intelligence_%26_Counterintelligence-FE53BB?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Personnel_Security_Official_SPO-FE53BB?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/U.S._Marine_Corps_Security_Management-F5D300?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Exposure_Management_Expert-F5D300?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Risk_Management_Framework_RFM-08F7FE?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/OPSEC-FE53BB?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Security_Operations-08F7FE?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Threat_Intelligence-FE53BB?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/International_Private_Investigator_under_the_Adversarial_Criminal_Justice_System-F5D300?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Investigation_and_Public_Safety_within_the_Judicial_System-F5D300?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Cybersecurity_Architect-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/DFIR_Expert-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT_Specialist-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Intelligence_%26_Counterintelligence-4b134f?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Personnel_Security_Official_SPO-4b134f?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/U.S._Marine_Corps_Security_Management-333333?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Exposure_Management_Expert-333333?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Risk_Management_Framework_RFM-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/OPSEC-4b134f?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Security_Operations-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Threat_Intelligence-4b134f?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/International_Private_Investigator_under_the_Adversarial_Criminal_Justice_System-800000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Investigation_and_Public_Safety_within_the_Judicial_System-800000?style=for-the-badge&logoColor=white">
 </p>
-
 <p align="center">
   <b>ICS/SCADA Specialist | Forensic Expert | Senior Professional</b>
 </p>
