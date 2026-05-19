@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shieldxpert/assets/main/shieldxpert-header.png" alt="ShieldXpert Header" width="800">
+  <img src="SHIELDXPERT" width="800">
 </p>
 <h3 align="center" <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Architect-1a2a6c?style=for-the-badge&logoColor=white">
