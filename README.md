@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/shieldxpert-header.png" width="800" alt="ShieldXpert Header">
 </p>
-<h3 align="center" <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity_Architect-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/DFIR_Expert-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/OSINT_Specialist-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Intelligence_%26_Counterintelligence-4b134f?style=for-the-badge&logoColor=white">
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/Threat_Intelligence-4b134f?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/International_Private_Investigator_under_the_Adversarial_Criminal_Justice_System-800000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Investigation_and_Public_Safety_within_the_Judicial_System-800000?style=for-the-badge&logoColor=white">
+</p>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/ICS%2FSCADA_Specialist-1a2a6c?style=social">
