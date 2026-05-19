@@ -107,7 +107,10 @@
   <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Specialized%20Toolsets.png" width="500" alt="Specialized Toolsets">
 </p>
 
-## 🔴 Red Team & Offensive Ops
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/red%20team.png" width="380" alt="Red Team & Offensive Ops">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/JohnTheRipper-D12F2F?style=for-the-badge&logo=lock&logoColor=white">
   <img src="https://img.shields.io/badge/Hydra-D12F2F?style=for-the-badge&logo=security&logoColor=white">
@@ -139,10 +142,12 @@
   <img src="https://img.shields.io/badge/Wireshark-D12F2F?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/BurpSuite-D12F2F?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
-
 ---
 
-## 🟣 Purple Team & Simulation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Purple%20Team.png" width="380" alt="Purple Team & Simulation">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/AtomicRedTeam-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Caldera-8A2BE2?style=for-the-badge&logo=mitre&logoColor=white">
@@ -176,7 +181,10 @@
 
 ---
 
-## 🟨 Yellow Team & OSINT
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Yellow%20Team.png" width="380" alt="Yellow Team & OSINT">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Maltego-FFB300?style=for-the-badge&logo=search&logoColor=black">
   <img src="https://img.shields.io/badge/SpiderFoot-FFB300?style=for-the-badge&logo=python&logoColor=black">
@@ -212,7 +220,10 @@
 
 ---
 
-## 🟦 Blue Team & DFIR
+<p align="left">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Blue%20Team.png" width="380" alt="Blue Team & DFIR">
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Zeek-007ACC?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Suricata-007ACC?style=for-the-badge&logo=security&logoColor=white">
