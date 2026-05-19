@@ -51,7 +51,24 @@
 ![Network Engineering](https://img.shields.io/badge/Role-Network%20Engineering-b45309?style=flat)
 ![Cybersecurity Expert](https://img.shields.io/badge/Role-Cybersecurity%20Expert-4338ca?style=flat)
 ![Cybersecurity Architect](https://img.shields.io/badge/Role-Cybersecurity%20Architect-0f766e?style=flat)
+![Independent Cybersecurity Expert](https://img.shields.io/badge/Role-Independent%20Cybersecurity%20Expert-3b82f6?style=flat)
 
+<br>
+
+![Intelligence and counterintelligence](https://img.shields.io/badge/Intelligence-Intelligence%20and%20counterintelligence-4c1d95?style=flat)
+![OPSEC](https://img.shields.io/badge/Intelligence-OPSEC-581c87?style=flat)
+![Threat Intelligence and Digital Forensics Specialist](https://img.shields.io/badge/Intelligence-Threat%20Intelligence%20and%20Digital%20Forensics%20Specialist-701a75?style=flat)
+
+<br>
+
+![Forensic Science Technician](https://img.shields.io/badge/Forensics-Forensic%20Science%20Technician-374151?style=flat)
+![International Private Investigator under the Adversarial Criminal Justice System](https://img.shields.io/badge/Legal-International%20Private%20Investigator%20under%20the%20Adversarial%20Criminal%20Justice%20System-991b1b?style=flat)
+![Cybercrime and Digital Justice Consultant](https://img.shields.io/badge/Legal-Cybercrime%20and%20Digital%20Justice%20Consultant-1e293b?style=flat)
+
+<br>
+
+![Expert in Artificial Intelligence and Cybersecurity](https://img.shields.io/badge/AI%20%26%20Cyber-Expert%20in%20Artificial%20Intelligence%20and%20Cybersecurity-0d9488?style=flat)
+![European Commission Credential](https://img.shields.io/badge/Credential-Private%20Independent%20EX2025D1184864%20European%20Commission-d97706?style=flat)
 <br>
 
 ![Cyber Deception](https://img.shields.io/badge/Intelligence-Cyber%20Deception-4c1d95?style=flat)
