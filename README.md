@@ -46,7 +46,9 @@
   <img src="https://img.shields.io/badge/CEH-005571?style=for-the-badge&logo=ec-council&logoColor=white">
 </p>
 
-### Core Competencies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Core%20Competencies.png" width="500" alt="Core Competencies">
+</p>
 
 ![Expert Witness](https://img.shields.io/badge/Role-Expert%20Witness-1e40af?style=flat)
 ![DFIR](https://img.shields.io/badge/Role-DFIR-b91c1c?style=flat)
