@@ -90,8 +90,9 @@
   <img src="https://skillicons.dev/icons?i=py,js,java,cpp,cs,ts,mysql,postgres,html,css,c,go,rust,bash,php,kotlin,swift,docker&theme=dark&perline=9" alt="Tech Stack">
 </p>
 
-## Operating Systems
 <p align="center">
+  <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Operating%20Systems.png" width="500" alt="Operating Systems">
+</p>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
