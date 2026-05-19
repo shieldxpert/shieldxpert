@@ -142,7 +142,7 @@
   <img src="https://img.shields.io/badge/Wireshark-D12F2F?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/BurpSuite-D12F2F?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
----
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/shieldxpert/shieldxpert/main/Purple%20Team.png" width="380" alt="Purple Team & Simulation">
