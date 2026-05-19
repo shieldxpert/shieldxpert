@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Personnel_Security_Official_SPO-4b134f?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/U.S._Marine_Corps_Security_Management-333333?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Exposure_Management_Expert-333333?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Risk_Management_Framework_RFM-1a2a6c?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Risk_Management_Framework_RMF-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/OPSEC-4b134f?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Security_Operations-1a2a6c?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Threat_Intelligence-4b134f?style=for-the-badge&logoColor=white">
